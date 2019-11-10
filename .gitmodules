@@ -1,0 +1,6 @@
+[submodule "third-party/kiwi"]
+	path = third-party/kiwi
+	url = git@github.com:mobius3/kiwi.git
+[submodule "third-party/c-rez"]
+	path = third-party/c-rez
+	url = git@github.com:mobius3/c-rez.git
